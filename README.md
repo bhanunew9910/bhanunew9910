@@ -102,8 +102,8 @@ kubectl get nodes
 
 LinkedIn:
 
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/vikas-kumar-s
 
 ---
 
-⭐ From Bhanu Kumar
+⭐ From Bhanu (Vikas) Kumar
